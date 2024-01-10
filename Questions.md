@@ -6,5 +6,5 @@
 
 
 
-*** System Design Stuff:
+### System Design Stuff:
 1. HLD for app like Bookmyshow
